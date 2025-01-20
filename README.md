@@ -1,2 +1,2 @@
 # odin-recipes
-In this project, I made a home recipe page, made an unorder list of links that take the user to 3 different web pages with recipes. 
+In this project, I made a home recipe page, made an unorder list of links that take the user to 3 different web pages with recipes. In this project I practiced building the boilerplate format of html, anchoring links, adding images to a website, and building a basic website. I also was able to praticing using Git and GitHub more and feel more comfortable using the command terminals. I also praticed commiting to Git so that I can get into the habit of commiting often so that I can see how my code is evolving without making huge changes at one time. 
